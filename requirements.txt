@@ -1,0 +1,4 @@
+streamlit
+requests
+web3
+pandas
