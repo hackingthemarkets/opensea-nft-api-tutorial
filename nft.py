@@ -2,6 +2,7 @@ import streamlit as st
 import requests, json
 from web3 import Web3
 import pandas as pd
+# test
 
 st.sidebar.header("Endpoints")
 endpoint_choices = ['Assets', 'Events', 'Rarity']
